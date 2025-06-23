@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
         elif(choice == "4"):
             print("Till next time.")
-            False
+            break
 
         else:
             print("Invalid selection. Please choose again")
